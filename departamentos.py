@@ -15,7 +15,7 @@ if("mexico" in departamentos):
 else:
 	print(False)
 
-if("Pando" and "Oruro" in departamentos)
+if("Pando" and "Oruro" in departamentos):
 	print("verdadero")
 else:
 	print("Falso")
