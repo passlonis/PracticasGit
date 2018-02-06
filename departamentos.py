@@ -8,3 +8,9 @@ if("Cochabamba" in departamentos):
 
 else:
 	print(False)
+
+if("mexico" in departamentos):
+	print(True)
+else:
+	print(False)
+	 
