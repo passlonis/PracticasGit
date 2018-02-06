@@ -15,5 +15,10 @@ if("mexico" in departamentos):
 else:
 	print(False)
 
+if("Pando" and "Oruro" in departamentos)
+	print("verdadero")
+else:
+	print("Falso")
+
 print(":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::")
 
