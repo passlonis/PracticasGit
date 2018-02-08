@@ -20,14 +20,17 @@ if("Pando" and "Oruro" in departamentos):
 else:
 	print("Falso")
 
-if("Tarija" in departamentos)
+if("Tarija" in departamentos):
 	print("Verdadero")
 
-if("Beni" in departamentos)
+if("Beni" in departamentos):
     print("Verdadero")
 
-if("Santa cruz" in departamentos)
+if("Santa cruz" in departamentos):
     print(True)
+
+if("sucre" in departamentos):
+	print(False)
 
 print(":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::")
 
