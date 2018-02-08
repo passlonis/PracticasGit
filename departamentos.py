@@ -20,5 +20,8 @@ if("Pando" and "Oruro" in departamentos):
 else:
 	print("Falso")
 
+if("Tarija" in departamentos)
+	print("Verdadero")
+
 print(":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::")
 
