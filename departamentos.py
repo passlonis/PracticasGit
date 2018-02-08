@@ -24,7 +24,10 @@ if("Tarija" in departamentos)
 	print("Verdadero")
 
 if("Beni" in departamentos)
-print("Verdadero")
+    print("Verdadero")
+
+if("Santa cruz" in departamentos)
+    print(True)
 
 print(":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::")
 
